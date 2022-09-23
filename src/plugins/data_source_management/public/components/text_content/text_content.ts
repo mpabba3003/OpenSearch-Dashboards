@@ -67,7 +67,7 @@ export const dsListingDeleteDataSourceDescription = i18n.translate(
   'dataSourcesManagement.dataSourcesTable.deleteDescription',
   {
     defaultMessage:
-      'This will delete data source connections(s) and all Index Patterns using this credential will be invalid for access.',
+      'This will delete data source connection(s) and all Index Patterns using this credential will be invalid for access.',
   }
 );
 

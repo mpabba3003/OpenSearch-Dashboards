@@ -31,7 +31,7 @@ export const Header = ({ docLinks }: { docLinks: DocLinksStart }) => {
             <p>
               <FormattedMessage
                 id="dataSourcesManagement.createDataSource.description"
-                defaultMessage="A data source is an OpenSearch cluster endpoint (for now) to query against."
+                defaultMessage="A data source is an OpenSearch cluster endpoint to query against."
               />
               <br />
               <EuiLink
